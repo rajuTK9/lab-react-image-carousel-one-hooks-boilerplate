@@ -1,7 +1,7 @@
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 ## Learning Goals:
-1. In this exercise, the goal is understand and practice how state's work with class components in react.
+1. In this exercise, the goal is understand and practice how state's work with functional components in react.
 2. We will also learn, how to use pre-build react projects.
 3. In this exercise, we will also explore material ui for decoration purpose.
 
@@ -25,7 +25,7 @@ You only have to edit following files in order to get the required output:
 1. components/Carousel.css
 2. components/Carousel.js
 
-We will be using our `classes` knowledge to implement this image carousel.
+We will be using our `functional components` knowledge to implement this image carousel.
 
 ### Problem Statement:
 The task is to create an image carousel - as shown below:
