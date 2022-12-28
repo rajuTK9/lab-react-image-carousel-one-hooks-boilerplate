@@ -33,6 +33,6 @@ Here is a gif, of how it should work like:
 
 
 
-Happy Coding Kalvium ❤️!
+Happy Coding ❤️!
 
 
